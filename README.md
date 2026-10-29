@@ -16,6 +16,7 @@ Proyek pengujian otomatis End-to-End (E2E) untuk website [Sociolla](https://www.
 ## 📁 Struktur Folder Proyek
 
 sociolla-cypress-testing/
+
 ├── cypress/
 │   ├── e2e/
 │   │   ├── 01_login_search.cy.js        
