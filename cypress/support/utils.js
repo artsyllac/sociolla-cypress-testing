@@ -1,0 +1,1 @@
+export const toRupiahNumber = (text) => Number(text.replace(/\D/g, ''));
