@@ -38,3 +38,14 @@ sociolla-cypress-testing/
 ├── package.json                   
 ├── .gitignore                        
 └── README.md
+
+## 🚀 Cara Menjalankan Pengujian
+1. Clone Repository ini:
+git clone [https://github.com/USERNAME_KAMU/sociolla-cypress-testing.git](https://github.com/USERNAME_KAMU/sociolla-cypress-testing.git)
+cd sociolla-cypress-testing
+2. Install Dependencies:
+npm install
+3. Jalankan Cypress Test Runner (UI):
+npx cypress open
+4. Jalankan Headless Test (Terminal):
+npx cypress run
